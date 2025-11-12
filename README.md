@@ -20,7 +20,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ## 📆 Agenda
 
-### Day 1: 🚀 Getting started (test changes) --No build
+### Day 1: 🚀 Getting started (test changes) --No build -- pull request
 
 - [ ] Introduction and Icebreaker
 - [ ] GitHub Actions Fundamentals
